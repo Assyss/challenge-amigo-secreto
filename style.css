@@ -162,3 +162,51 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Aplica estes estilos quando a tela for de 768px ou menor (tablets e celulares) */
+@media (max-width: 768px) {
+
+    /* Diminui o título principal */
+    .main-title {
+        font-size: 36px;
+    }
+
+    /* Ajusta o padding do banner e o alinhamento */
+    .header-banner {
+        padding: 20px 0;
+        align-items: flex-start;
+    }
+
+    /* Diminui o título da seção */
+    .section-title {
+        font-size: 28px;
+    }
+
+    .input-wrapper {
+        flex-direction: column; /* Coloca os itens em coluna */
+        align-items: stretch;   /* Faz eles ocuparem 100% da largura do container */
+        gap: 15px;              /* Adiciona um espaço entre eles */
+    }
+
+    /* Ajusta o raio da borda do input para o novo layout */
+    .input-name {
+        border-radius: 25px; /* Bordas arredondadas em todos os cantos */
+    }
+
+    /* Ajusta o raio da borda do botão Adicionar */
+    .button-add {
+        border-radius: 25px; /* Bordas arredondadas em todos os cantos */
+    }
+
+    /* Garante que os botões de ação ocupem uma largura mais flexível */
+    .button-container {
+        width: 90%; /* Usa porcentagem em vez de um valor fixo */
+        flex-direction: column; /* Empilha os botões */
+    }
+
+    /* Faz a imagem do banner não ficar tão grande */
+    .header-banner img {
+        width: 80%;
+        max-width: 300px;
+    }
+}
