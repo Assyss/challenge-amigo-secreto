@@ -1,4 +1,4 @@
-# Sorteador de Amigo Secreto
+# Sorteador de amigo secreto
 
 ## 📝 Descrição
 
@@ -17,7 +17,7 @@ A interface é limpa e intuitiva, focada na experiência do usuário.
 
 *(Aqui você pode adicionar um screenshot da sua aplicação em funcionamento para que outros possam ver como ela é.)*
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
 O projeto foi construído utilizando as seguintes tecnologias:
 
@@ -25,7 +25,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
   - **CSS3:** Para a estilização e o layout.
   - **JavaScript:** Para toda a lógica de interatividade, manipulação do DOM e a funcionalidade do sorteio.
 
-## 🚀 Como Executar
+## 🚀 Como executar
 
 Este projeto é totalmente front-end e não requer instalação de dependências. Para executá-lo:
 
