@@ -163,7 +163,6 @@ ul {
     background-color: var(--color-button-hover);
 }
 
-/* Aplica estes estilos quando a tela for de 768px ou menor (tablets e celulares) */
 @media (max-width: 768px) {
 
     /* Diminui o título principal */
