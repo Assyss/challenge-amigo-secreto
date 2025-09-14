@@ -8,14 +8,14 @@ A interface é limpa e intuitiva, focada na experiência do usuário.
 
 ## ✨ Funcionalidades
 
-  - **Adicionar Participantes:** Permite inserir nomes em uma lista de forma dinâmica.
-  - **Validação de Nomes:** Impede a adição de nomes vazios ou duplicados na lista.
-  - **Sorteio Aleatório:** Realiza o sorteio dos pares com um clique, garantindo que ninguém tire a si mesmo.
-  - **Reiniciar Sorteio:** Limpa a lista de participantes e o resultado para um novo sorteio.
+  - **Adicionar participantes:** Permite inserir nomes em uma lista de forma dinâmica.
+  - **Validação de nomes:** Impede a adição de nomes vazios ou duplicados na lista.
+  - **Sorteio aleatório:** Realiza o sorteio dos pares com um clique, garantindo que ninguém tire a si mesmo.
+  - **Reiniciar sorteio:** Limpa a lista de participantes e o resultado para um novo sorteio.
 
 ## 🖼️ Demonstração
 
-*(Aqui você pode adicionar um screenshot da sua aplicação em funcionamento para que outros possam ver como ela é.)*
+
 
 ## 🛠️ Tecnologias utilizadas
 
