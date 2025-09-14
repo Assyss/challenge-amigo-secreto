@@ -15,6 +15,7 @@ A interface é limpa e intuitiva, focada na experiência do usuário.
 
 ## 🖼️ Demonstração
 
+<img width="1878" height="870" alt="image" src="https://github.com/user-attachments/assets/673bdf70-d77a-4a62-a6f2-f21a290aff1b" />
 
 
 ## 🛠️ Tecnologias utilizadas
